@@ -137,6 +137,8 @@ Run the Django server and execute the HTML files.
 
 ### MAP:
 
+![4map](https://github.com/PSriVarshan/places-around-me/assets/114944059/50b5e2e6-50dc-4255-b04a-0570afe17a97)
+
 
 ### 5 Locations :
 
