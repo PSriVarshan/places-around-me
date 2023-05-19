@@ -142,12 +142,30 @@ Run the Django server and execute the HTML files.
 
 ### 5 Locations :
 
+![image](https://github.com/PSriVarshan/places-around-me/assets/114944059/dbfe593b-462e-44a7-b4e7-21cc2bceb3cf)
+
+
+![image](https://github.com/PSriVarshan/places-around-me/assets/114944059/502ed0b6-3c9e-4038-a20e-7b173baa415e)
+
+
+![image](https://github.com/PSriVarshan/places-around-me/assets/114944059/d592afd8-0356-4014-9c2e-0d10cc505c4e)
+
+
+![image](https://github.com/PSriVarshan/places-around-me/assets/114944059/9ca09d87-917e-4074-8b21-9bb102882c2b)
+
+
+![image](https://github.com/PSriVarshan/places-around-me/assets/114944059/53bcb730-5a68-452d-88bf-6e7a208f9269)
+
 
 ### Server : 
 
+![image](https://github.com/PSriVarshan/places-around-me/assets/114944059/38b221b3-0b14-4d8a-b337-b75d61414f07)
 
 
 ### HTML Validator :
+
+![Screenshot 2023-05-19 092606](https://github.com/PSriVarshan/places-around-me/assets/114944059/59bdc1af-6199-45dc-87c2-fe2564a6839b)
+
 
 ## Result:
 The program for implementing image map is executed successfully.
